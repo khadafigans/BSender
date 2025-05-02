@@ -11,7 +11,10 @@ Installation :
  - How To Use ?
    
                python main.py
-               
+
+<h2>Screenshots</h2>
+<img src="https://i.imgur.com/2DLPL7e.png" style="max-width:100%;">
+
 ## ✨ Features:
 - ✅ **Can be use for spoofing email**
 - ✅ **Can be used for up to 100 SMTP User**
