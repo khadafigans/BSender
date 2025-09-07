@@ -1,0 +1,19 @@
+Below this all of the Random Functions can be setup in random_data.py
+
+{email} = This is email detections function
+{date} = Current date and time 
+{random_ip} = Random IP Address (Used in the subject usually)
+{random_country} = Random Country (USA,INDIA,UK,ETC)
+{random_device} = Random Device
+{random_browser} = Random Browser
+{random_subject} = Random Subject 
+{random_fnamazon} = Random From name Amazon
+{random_fnpaypal} = Random From name Paypal
+{random_statement} = Random Subject Statement
+{random_shortlink} = Random shortlink
+
+{random_number_5} = Random number ("5" is the example of the number) = *Example : 32443
+{random_letterup_7} = Random Letter Uppercase ("7" is the example of the number) : EXAMPLE
+{random_letterlow_7} = Random Letter Lowercase ("7" is the example of the number) : example
+{random_letteruplow_7} = Random Letter Uppercase and Lowercase ("7" is the example of the number) : eXaMPle
+{random_letternumberuplow_8} =Random Letter, Number, Uppercase, Lower case ("5" is the example of the number) : ExaM49eL
